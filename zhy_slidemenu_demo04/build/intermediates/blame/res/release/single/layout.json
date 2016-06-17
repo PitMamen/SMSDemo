@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\release\\layout\\slidingmenumain.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\exploded-aar\\MyApplication\\slidelibrary\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\release\\layout\\left_menu_frame.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\layout\\left_menu_frame.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\release\\layout\\main_tab_01.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\layout\\main_tab_01.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\release\\layout\\right_menu_frame.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\layout\\right_menu_frame.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\release\\layout\\main_tab_03.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\layout\\main_tab_03.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\release\\layout\\main_tab_02.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\layout\\main_tab_02.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\release\\layout\\right_menu.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\layout\\right_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\release\\layout\\left_menu.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\layout\\left_menu.xml"
+    }
+]

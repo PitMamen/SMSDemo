@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_last_item.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable\\settings_last_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_first_item.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable\\settings_first_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_btn.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable\\exit_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable\\showleft_selector.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable\\showleft_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_nomal_item.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable\\settings_nomal_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable\\friends_item.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable\\friends_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable\\showright_selector.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable\\showright_selector.xml"
+    }
+]

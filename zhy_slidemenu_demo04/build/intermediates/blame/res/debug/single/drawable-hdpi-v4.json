@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_zero_normal.9.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\btn_style_zero_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_last_normal.9.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\ic_preference_last_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_normal.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\mm_submenu_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_single_pressed.9.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\ic_preference_single_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_single_normal.9.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\ic_preference_single_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_pressed.9.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\ic_preference_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recent_chat_showleft_normal.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\recent_chat_showleft_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_pressed.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\mm_submenu_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_first_pressed.9.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\ic_preference_first_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_normal.9.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\ic_preference_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recent_chat_showleft_pressed.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\recent_chat_showleft_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_first_normal.9.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\ic_preference_first_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_zero_focused.9.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\btn_style_zero_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_last_pressed.9.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\ic_preference_last_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_zero_pressed.9.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\btn_style_zero_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bar.9.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\title_bar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recent_chat_showright_pressed.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\recent_chat_showright_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recent_chat_showright_normal.png",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo04\\src\\main\\res\\drawable-hdpi\\recent_chat_showright_normal.png"
+    }
+]

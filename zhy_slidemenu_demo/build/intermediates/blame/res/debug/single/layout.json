@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo\\build\\intermediates\\res\\merged\\debug\\layout\\leftmenu.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo\\src\\main\\res\\layout\\leftmenu.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\zhy_slidemenu_demo\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\Android\\MyApplication\\zhy_slidemenu_demo\\build\\intermediates\\exploded-aar\\MyApplication\\slidelibrary\\unspecified\\res\\layout\\slidingmenumain.xml"
+    }
+]

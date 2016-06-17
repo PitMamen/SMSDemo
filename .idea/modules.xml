@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MusicDemo/MusicDemo.iml" filepath="$PROJECT_DIR$/MusicDemo/MusicDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SMSSTestDemo/SMSSTestDemo.iml" filepath="$PROJECT_DIR$/SMSSTestDemo/SMSSTestDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidelibrary/slidelibrary.iml" filepath="$PROJECT_DIR$/slidelibrary/slidelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhy_slidemenu_demo/zhy_slidemenu_demo.iml" filepath="$PROJECT_DIR$/zhy_slidemenu_demo/zhy_slidemenu_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhy_slidemenu_demo04/zhy_slidemenu_demo04.iml" filepath="$PROJECT_DIR$/zhy_slidemenu_demo04/zhy_slidemenu_demo04.iml" />
+    </modules>
+  </component>
+</project>

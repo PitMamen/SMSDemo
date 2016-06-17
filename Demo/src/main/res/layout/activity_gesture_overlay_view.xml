@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.zhujiang.test1.GestureOverlayViewActivity">
+
+
+    <!-- gestureColor 笔画的颜色  ，gestureStrokeType 笔画的类型 , gestureStrokeWidth 笔画的粗细 -->
+    <android.gesture.GestureOverlayView
+        android:id="@+id/id_gesture"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:gestureColor="@color/colorPrimary"
+        android:gestureStrokeType="multiple"
+        android:gestureStrokeWidth="2" />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:background="@mipmap/ic_launcher"
+        android:scaleType="centerInside" />
+
+
+</RelativeLayout>

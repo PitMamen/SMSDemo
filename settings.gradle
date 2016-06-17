@@ -1,0 +1,4 @@
+include ':Demo', ':SMSSTestDemo', ':MusicDemo';
+include ':slidelibrary'
+include ':zhy_slidemenu_demo'
+include ':zhy_slidemenu_demo04'
